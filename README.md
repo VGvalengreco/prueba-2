@@ -1,2 +1,2 @@
-# prueba-2
-este es un repositorio de prueba de prueba 2
+prueba de como crear repositorio desde github a mi pc
+
